@@ -1,0 +1,12 @@
+/home/mark/dipcoin/rust/target/wasm32-unknown-unknown/release/deps/libhalf-4b79dcba53cd8499.rmeta: /home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/lib.rs /home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/bfloat.rs /home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/bfloat/convert.rs /home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/binary16.rs /home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/binary16/convert.rs /home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/slice.rs
+
+/home/mark/dipcoin/rust/target/wasm32-unknown-unknown/release/deps/libhalf-4b79dcba53cd8499.rlib: /home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/lib.rs /home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/bfloat.rs /home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/bfloat/convert.rs /home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/binary16.rs /home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/binary16/convert.rs /home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/slice.rs
+
+/home/mark/dipcoin/rust/target/wasm32-unknown-unknown/release/deps/half-4b79dcba53cd8499.d: /home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/lib.rs /home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/bfloat.rs /home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/bfloat/convert.rs /home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/binary16.rs /home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/binary16/convert.rs /home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/slice.rs
+
+/home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/lib.rs:
+/home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/bfloat.rs:
+/home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/bfloat/convert.rs:
+/home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/binary16.rs:
+/home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/binary16/convert.rs:
+/home/mark/.cargo/registry/src/index.crates.io-6f17d22bba15001f/half-1.8.3/src/slice.rs:

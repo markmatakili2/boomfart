@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "token"
+]
+resolver = "2"
+[net]
+git-fetch-with-cli = true
+

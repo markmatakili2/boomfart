@@ -1,0 +1,28 @@
+{
+  "canisters": {
+    "token": {
+      "candid": "token/token.did",
+      "package": "token",
+      "type": "rust"
+    },
+    "front": {
+      "entrypoint": "src/app/page.js",
+      "dependencies": [
+        "token"
+      ],
+      "source": [
+        "front"
+      ],
+      "type": "assets"
+    }
+  },
+  
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
