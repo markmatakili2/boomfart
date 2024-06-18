@@ -1,8 +1,13 @@
 [workspace]
 members = [
+<<<<<<< HEAD
+    "src/test_backend",
+]
+=======
     "token"
 ]
 resolver = "2"
 [net]
 git-fetch-with-cli = true
 
+>>>>>>> afdd4f880de1b8ed53a9db4ab4fb7cc84c972bf2

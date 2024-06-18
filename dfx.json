@@ -1,5 +1,22 @@
 {
   "canisters": {
+<<<<<<< HEAD
+    "test_backend": {
+      "candid": "src/test_backend/test_backend.did",
+      "package": "test_backend",
+      "type": "rust"
+    },
+    "test_frontend": {
+      "dependencies": [
+        "test_backend"
+      ],
+      "frontend": {
+        "entrypoint": "src/test_frontend/src/index.html"
+      },
+      "source": [
+        "src/test_frontend/assets",
+        "dist/test_frontend/"
+=======
     "token": {
       "candid": "token/token.did",
       "package": "token",
@@ -12,11 +29,15 @@
       ],
       "source": [
         "front"
+>>>>>>> afdd4f880de1b8ed53a9db4ab4fb7cc84c972bf2
       ],
       "type": "assets"
     }
   },
+<<<<<<< HEAD
+=======
   
+>>>>>>> afdd4f880de1b8ed53a9db4ab4fb7cc84c972bf2
   "defaults": {
     "build": {
       "args": "",
@@ -25,4 +46,8 @@
   },
   "output_env_file": ".env",
   "version": 1
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> afdd4f880de1b8ed53a9db4ab4fb7cc84c972bf2
